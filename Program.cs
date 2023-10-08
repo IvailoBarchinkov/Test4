@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int num = 5;
+            int num = 6;
             string word = string.Empty;
             for (int i = 0; i < num; i++)
             {
